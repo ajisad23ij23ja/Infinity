@@ -1,8 +1,3 @@
-# Project Swiss (Infinity 2)
-# Property of Infinitytools.shop
-
-# login - line 14
-
 ### Imports ###
 
 import os
