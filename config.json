@@ -1,0 +1,12 @@
+{
+    "_comment": "This is the Infinity config, you can set advanced parameters here.",
+    "discordRPC": false,
+    "use12HourClock": true,
+    "checkCookiesOnStart": false,
+    "captchaSettings": {
+        "service": "anticaptcha",
+        "apiKey": "",
+        "maxRetries": 30
+    },
+    "_": "Need help? Please make a ticket @ dsc.gg/unlimitedness"
+}

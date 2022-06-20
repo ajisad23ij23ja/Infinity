@@ -1,0 +1,13 @@
+nuitka
+pypresence 
+mailtm 
+requests 
+licensing 
+aiohttp 
+colorama 
+rstr 
+asyncio
+zstandard
+soupsieve
+bs4
+click
